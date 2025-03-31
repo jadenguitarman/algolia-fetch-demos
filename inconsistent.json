@@ -1,0 +1,339 @@
+[
+  {
+      "id": "ABC123",
+      "name": "Smart Home Hub",
+      "description": "Control all your smart devices from one central hub",
+      "price": 149.99,
+      "currency": "USD",
+      "manufacturer": "TechConnect",
+      "category": "Smart Home",
+      "inStock": true,
+      "weight": 0.5,
+      "dimensions": "4x4x2",
+      "color": "White"
+  },
+  {
+      "product": {
+          "identifier": "ABC123",
+          "title": "Smart Home Hub",
+          "details": {
+              "summary": "Control all your smart devices from one central hub",
+              "maker": "TechConnect",
+              "classification": "Smart Home"
+          },
+          "inventory": {
+              "available": true,
+              "cost": {
+                  "amount": 149.99,
+                  "monetary_unit": "USD"
+              }
+          },
+          "specifications": {
+              "physical": {
+                  "mass_kg": 0.5,
+                  "size": "4x4x2",
+                  "shade": "White"
+              }
+          }
+      }
+  },
+  {
+      "sku": "ABC123",
+      "attributes": [
+          {
+              "type": "name",
+              "value": "Smart Home Hub"
+          },
+          {
+              "type": "description",
+              "value": "Control all your smart devices from one central hub"
+          },
+          {
+              "type": "price",
+              "value": 149.99,
+              "unit": "USD"
+          },
+          {
+              "type": "manufacturer",
+              "value": "TechConnect"
+          },
+          {
+              "type": "category",
+              "value": "Smart Home"
+          },
+          {
+              "type": "availability",
+              "value": true
+          },
+          {
+              "type": "weight",
+              "value": 0.5,
+              "unit": "kg"
+          },
+          {
+              "type": "dimensions",
+              "value": "4x4x2"
+          },
+          {
+              "type": "color",
+              "value": "White"
+          }
+      ]
+  },
+  {
+      "metadata": {
+          "schema_version": "1.0",
+          "product_code": "ABC123"
+      },
+      "data": {
+          "properties": {
+              "name": {
+                  "value": "Smart Home Hub",
+                  "editable": true
+              },
+              "description": {
+                  "value": "Control all your smart devices from one central hub",
+                  "editable": true
+              },
+              "price": {
+                  "value": 149.99,
+                  "currency": "USD",
+                  "editable": true
+              },
+              "manufacturer": {
+                  "value": "TechConnect",
+                  "editable": false
+              },
+              "category": {
+                  "value": "Smart Home",
+                  "editable": true
+              },
+              "inStock": {
+                  "value": true,
+                  "editable": true
+              },
+              "weight": {
+                  "value": 0.5,
+                  "unit": "kg",
+                  "editable": false
+              },
+              "dimensions": {
+                  "value": "4x4x2",
+                  "editable": false
+              },
+              "color": {
+                  "value": "White",
+                  "editable": true
+              }
+          }
+      }
+  },
+  {
+      "entities": {
+          "product": {
+              "id": "ABC123",
+              "name": "Smart Home Hub",
+              "description": "Control all your smart devices from one central hub",
+              "price_id": "PRICE001",
+              "manufacturer_id": "MANF001",
+              "category_id": "CAT001",
+              "physical_attrs_id": "PHYS001",
+              "inventory_id": "INV001"
+          },
+          "price": {
+              "id": "PRICE001",
+              "amount": 149.99,
+              "currency": "USD"
+          },
+          "manufacturer": {
+              "id": "MANF001",
+              "name": "TechConnect"
+          },
+          "category": {
+              "id": "CAT001",
+              "name": "Smart Home"
+          },
+          "physical_attributes": {
+              "id": "PHYS001",
+              "weight": 0.5,
+              "dimensions": "4x4x2",
+              "color": "White"
+          },
+          "inventory": {
+              "id": "INV001",
+              "in_stock": true
+          }
+      }
+  },
+  {
+      "_id": "ABC123",
+      "product_info": {
+          "en": {
+              "name": "Smart Home Hub",
+              "description": "Control all your smart devices from one central hub",
+              "category": "Smart Home"
+          }
+      },
+      "manufacturer_info": {
+          "company": "TechConnect"
+      },
+      "pricing": {
+          "standard": {
+              "value": 149.99,
+              "iso_currency": "USD"
+          }
+      },
+      "stock_status": {
+          "current": true
+      },
+      "physical_properties": {
+          "mass": {
+              "value": 0.5,
+              "unit": "kg"
+          },
+          "size": {
+              "raw": "4x4x2"
+          },
+          "appearance": {
+              "color": "White"
+          }
+      }
+  },
+  {
+      "ProductCatalog": {
+          "ProductEntry": {
+              "ProductIdentification": {
+                  "SKU": "ABC123"
+              },
+              "ProductDescription": {
+                  "MarketingName": "Smart Home Hub",
+                  "DetailedDescription": "Control all your smart devices from one central hub"
+              },
+              "ProductClassification": {
+                  "PrimaryCategory": "Smart Home"
+              },
+              "ProductManufacturer": {
+                  "CompanyName": "TechConnect"
+              },
+              "ProductPricing": {
+                  "RetailPrice": {
+                      "Amount": 149.99,
+                      "CurrencyCode": "USD"
+                  }
+              },
+              "ProductAvailability": {
+                  "InStock": true
+              },
+              "ProductPhysicalAttributes": {
+                  "Weight": {
+                      "Amount": 0.5,
+                      "UnitOfMeasure": "kg"
+                  },
+                  "Dimensions": {
+                      "RawDimensionString": "4x4x2"
+                  },
+                  "Appearance": {
+                      "PrimaryColor": "White"
+                  }
+              }
+          }
+      }
+  },
+  {
+      "node": {
+          "type": "Product",
+          "id": "ABC123",
+          "fields": {
+              "name": "Smart Home Hub",
+              "description": "Control all your smart devices from one central hub",
+              "priceAmount": 149.99,
+              "priceCurrency": "USD",
+              "manufacturerName": "TechConnect",
+              "categoryName": "Smart Home",
+              "inventoryStatus": "IN_STOCK",
+              "weightKg": 0.5,
+              "dimensionsText": "4x4x2",
+              "colorName": "White"
+          },
+          "connections": []
+      }
+  },
+  {
+      "productService": {
+          "productId": "ABC123",
+          "productName": "Smart Home Hub",
+          "productDescription": "Control all your smart devices from one central hub"
+      },
+      "categoryService": {
+          "productId": "ABC123",
+          "category": "Smart Home"
+      },
+      "inventoryService": {
+          "productId": "ABC123",
+          "available": true
+      },
+      "pricingService": {
+          "productId": "ABC123",
+          "basePrice": 149.99,
+          "currency": "USD"
+      },
+      "manufacturerService": {
+          "productId": "ABC123",
+          "manufacturer": "TechConnect"
+      },
+      "attributesService": {
+          "productId": "ABC123",
+          "physicalAttributes": {
+              "weight": 0.5,
+              "dimensions": "4x4x2",
+              "color": "White"
+          }
+      }
+  },
+  {
+      "aggregate": "product",
+      "id": "ABC123",
+      "events": [
+          {
+              "type": "ProductCreated",
+              "timestamp": "2025-03-15T10:30:00Z",
+              "data": {
+                  "name": "Smart Home Hub",
+                  "description": "Control all your smart devices from one central hub",
+                  "manufacturer": "TechConnect"
+              }
+          },
+          {
+              "type": "CategoryAssigned",
+              "timestamp": "2025-03-15T10:31:00Z",
+              "data": {
+                  "category": "Smart Home"
+              }
+          },
+          {
+              "type": "PriceSet",
+              "timestamp": "2025-03-15T10:32:00Z",
+              "data": {
+                  "amount": 149.99,
+                  "currency": "USD"
+              }
+          },
+          {
+              "type": "PhysicalAttributesSpecified",
+              "timestamp": "2025-03-15T10:33:00Z",
+              "data": {
+                  "weight": 0.5,
+                  "dimensions": "4x4x2",
+                  "color": "White"
+              }
+          },
+          {
+              "type": "InventoryStatusChanged",
+              "timestamp": "2025-03-15T10:34:00Z",
+              "data": {
+                  "inStock": true
+              }
+          }
+      ]
+  }
+]
