@@ -1,0 +1,850 @@
+[
+  {
+    "objectID": "c92fa0ea-81b3-4e2b-b9ea-1ecf53ab5796",
+    "warehouses": {
+      "montreal": 64,
+      "chicago": 54,
+      "phoenix": 91
+    }
+  },
+  {
+    "objectID": "d592dcfb-4789-4275-8cba-c329fcbbe073",
+    "warehouses": {
+      "montreal": 98,
+      "chicago": 22,
+      "phoenix": 84
+    }
+  },
+  {
+    "objectID": "8354fb5c-0c07-49ee-a06c-bc0b5c70efdd",
+    "warehouses": {
+      "montreal": 79,
+      "chicago": 59,
+      "phoenix": 31
+    }
+  },
+  {
+    "objectID": "8300a385-d305-4273-9dd4-b01f16dab110",
+    "warehouses": {
+      "montreal": 48,
+      "chicago": 53,
+      "phoenix": 17
+    }
+  },
+  {
+    "objectID": "c20f1ac0-f51c-4d6c-87cc-ce6ceba14b32",
+    "warehouses": {
+      "montreal": 52,
+      "chicago": 9,
+      "phoenix": 81
+    }
+  },
+  {
+    "objectID": "6aefaf7e-e3b4-402e-88ba-cf8ca6077cfc",
+    "warehouses": {
+      "montreal": 79,
+      "chicago": 55,
+      "phoenix": 8
+    }
+  },
+  {
+    "objectID": "499c66f2-55a9-4406-b207-a9c97a75db9c",
+    "warehouses": {
+      "montreal": 59,
+      "chicago": 100,
+      "phoenix": 97
+    }
+  },
+  {
+    "objectID": "2f27c562-2689-48f7-af62-128117bdd97c",
+    "warehouses": {
+      "montreal": 30,
+      "chicago": 55,
+      "phoenix": 82
+    }
+  },
+  {
+    "objectID": "628ff583-8252-419a-bf21-b0de71f8e577",
+    "warehouses": {
+      "montreal": 94,
+      "chicago": 33,
+      "phoenix": 74
+    }
+  },
+  {
+    "objectID": "3723298d-0df7-4ed3-8fea-1ccd1e9e5d8c",
+    "warehouses": {
+      "montreal": 66,
+      "chicago": 55,
+      "phoenix": 12
+    }
+  },
+  {
+    "objectID": "751df0f2-01ff-4718-bebe-40f067a602c9",
+    "warehouses": {
+      "montreal": 73,
+      "chicago": 52,
+      "phoenix": 100
+    }
+  },
+  {
+    "objectID": "d571b365-aa97-49e6-99ed-7bb379fa1482",
+    "warehouses": {
+      "montreal": 37,
+      "chicago": 36,
+      "phoenix": 31
+    }
+  },
+  {
+    "objectID": "e50fc72d-3238-413c-86d8-2ee5d8bc1f5a",
+    "warehouses": {
+      "montreal": 98,
+      "chicago": 59,
+      "phoenix": 11
+    }
+  },
+  {
+    "objectID": "21fa05e6-d5bf-4c3a-910b-26ffa1bc4fd7",
+    "warehouses": {
+      "montreal": 45,
+      "chicago": 30,
+      "phoenix": 59
+    }
+  },
+  {
+    "objectID": "ffe9089f-cd5c-453f-8cab-c8117cc9ec65",
+    "warehouses": {
+      "montreal": 74,
+      "chicago": 58,
+      "phoenix": 61
+    }
+  },
+  {
+    "objectID": "9ba74dc5-7250-4910-8656-27f8c7f59d4c",
+    "warehouses": {
+      "montreal": 68,
+      "chicago": 46,
+      "phoenix": 57
+    }
+  },
+  {
+    "objectID": "4b61c901-f18c-41f0-a0ce-5b0fa63bb9de",
+    "warehouses": {
+      "montreal": 36,
+      "chicago": 26,
+      "phoenix": 92
+    }
+  },
+  {
+    "objectID": "ca6b97ab-1586-49c1-86b8-1530e8d2413a",
+    "warehouses": {
+      "montreal": 36,
+      "chicago": 91,
+      "phoenix": 12
+    }
+  },
+  {
+    "objectID": "5599907f-81e0-468e-a49d-dc678ca56a61",
+    "warehouses": {
+      "montreal": 16,
+      "chicago": 2,
+      "phoenix": 36
+    }
+  },
+  {
+    "objectID": "f3ae5c0d-d41e-4765-8e28-d58b564f23e7",
+    "warehouses": {
+      "montreal": 56,
+      "chicago": 52,
+      "phoenix": 61
+    }
+  },
+  {
+    "objectID": "64197607-7828-43d3-a5cc-de250727643e",
+    "warehouses": {
+      "montreal": 58,
+      "chicago": 61,
+      "phoenix": 11
+    }
+  },
+  {
+    "objectID": "aea4be91-61fb-413a-bc84-fb7928900640",
+    "warehouses": {
+      "montreal": 88,
+      "chicago": 58,
+      "phoenix": 48
+    }
+  },
+  {
+    "objectID": "3e4bba24-c9f2-4775-89a9-d361727aeac0",
+    "warehouses": {
+      "montreal": 95,
+      "chicago": 93,
+      "phoenix": 71
+    }
+  },
+  {
+    "objectID": "c80513e3-0506-4e0c-bd09-208a72c6d868",
+    "warehouses": {
+      "montreal": 14,
+      "chicago": 80,
+      "phoenix": 16
+    }
+  },
+  {
+    "objectID": "4b9a81e2-b600-44eb-ac2b-c393f5c1e063",
+    "warehouses": {
+      "montreal": 60,
+      "chicago": 17,
+      "phoenix": 85
+    }
+  },
+  {
+    "objectID": "1963f963-4d0b-4369-9afe-ad0088bac81d",
+    "warehouses": {
+      "montreal": 95,
+      "chicago": 54,
+      "phoenix": 81
+    }
+  },
+  {
+    "objectID": "17698dcc-8308-4576-b096-e27e8799f558",
+    "warehouses": {
+      "montreal": 58,
+      "chicago": 45,
+      "phoenix": 76
+    }
+  },
+  {
+    "objectID": "b277f541-b1fb-48d1-8bec-e8df7f58c672",
+    "warehouses": {
+      "montreal": 8,
+      "chicago": 77,
+      "phoenix": 13
+    }
+  },
+  {
+    "objectID": "f0e39f86-dee2-42d8-8d09-b31b997deab8",
+    "warehouses": {
+      "montreal": 44,
+      "chicago": 34,
+      "phoenix": 49
+    }
+  },
+  {
+    "objectID": "4d25d057-266b-4db7-a154-165364b0d8be",
+    "warehouses": {
+      "montreal": 68,
+      "chicago": 76,
+      "phoenix": 25
+    }
+  },
+  {
+    "objectID": "36163522-52c4-4b58-a5b1-ae2fdff01a96",
+    "warehouses": {
+      "montreal": 93,
+      "chicago": 17,
+      "phoenix": 61
+    }
+  },
+  {
+    "objectID": "c068f507-4604-42ba-9f9a-f864bc130ae7",
+    "warehouses": {
+      "montreal": 87,
+      "chicago": 95,
+      "phoenix": 89
+    }
+  },
+  {
+    "objectID": "1f12e7ba-d992-4881-b381-544b80e82e9e",
+    "warehouses": {
+      "montreal": 32,
+      "chicago": 16,
+      "phoenix": 87
+    }
+  },
+  {
+    "objectID": "7b343319-4ed4-491f-a09a-36ef4bfbbfda",
+    "warehouses": {
+      "montreal": 89,
+      "chicago": 50,
+      "phoenix": 87
+    }
+  },
+  {
+    "objectID": "509d4819-507b-4767-9a39-b5f7a74e53b9",
+    "warehouses": {
+      "montreal": 44,
+      "chicago": 47,
+      "phoenix": 70
+    }
+  },
+  {
+    "objectID": "904b1a54-e48a-490c-9980-a09adc79b9f1",
+    "warehouses": {
+      "montreal": 95,
+      "chicago": 57,
+      "phoenix": 51
+    }
+  },
+  {
+    "objectID": "865b8bb1-94ac-4183-8e6f-d001c5f40324",
+    "warehouses": {
+      "montreal": 9,
+      "chicago": 78,
+      "phoenix": 44
+    }
+  },
+  {
+    "objectID": "d9293c6d-1398-46c2-9fb0-6c92e728a15c",
+    "warehouses": {
+      "montreal": 3,
+      "chicago": 34,
+      "phoenix": 52
+    }
+  },
+  {
+    "objectID": "9f122449-208d-40a3-858d-6ce4ac8e5bc1",
+    "warehouses": {
+      "montreal": 49,
+      "chicago": 34,
+      "phoenix": 23
+    }
+  },
+  {
+    "objectID": "387a7de8-0202-4783-a0b7-93ddc17f227d",
+    "warehouses": {
+      "montreal": 92,
+      "chicago": 10,
+      "phoenix": 96
+    }
+  },
+  {
+    "objectID": "a29217c3-2476-4dc7-a506-9ccb7e6e5a29",
+    "warehouses": {
+      "montreal": 28,
+      "chicago": 42,
+      "phoenix": 90
+    }
+  },
+  {
+    "objectID": "3841a578-5a2f-4d44-9b17-6693b72d063c",
+    "warehouses": {
+      "montreal": 67,
+      "chicago": 13,
+      "phoenix": 89
+    }
+  },
+  {
+    "objectID": "f96d46f6-0cd7-48e0-81c4-f54a94fcdf2e",
+    "warehouses": {
+      "montreal": 68,
+      "chicago": 35,
+      "phoenix": 88
+    }
+  },
+  {
+    "objectID": "3bb7be15-3ec3-41d7-a48a-f96752c93284",
+    "warehouses": {
+      "montreal": 26,
+      "chicago": 5,
+      "phoenix": 78
+    }
+  },
+  {
+    "objectID": "37e69db2-3a3e-4627-93ef-840e23bb0335",
+    "warehouses": {
+      "montreal": 73,
+      "chicago": 50,
+      "phoenix": 91
+    }
+  },
+  {
+    "objectID": "bba460f6-4e5e-4497-950c-5375b71e25e5",
+    "warehouses": {
+      "montreal": 63,
+      "chicago": 25,
+      "phoenix": 95
+    }
+  },
+  {
+    "objectID": "05ea01b6-47cc-4191-a663-6649d24cd668",
+    "warehouses": {
+      "montreal": 13,
+      "chicago": 82,
+      "phoenix": 100
+    }
+  },
+  {
+    "objectID": "087ebf29-a72b-4332-9ef0-ef8c64c7c3d9",
+    "warehouses": {
+      "montreal": 38,
+      "chicago": 48,
+      "phoenix": 47
+    }
+  },
+  {
+    "objectID": "580924ce-05ac-4cab-97cf-8a255f0a172a",
+    "warehouses": {
+      "montreal": 94,
+      "chicago": 32,
+      "phoenix": 3
+    }
+  },
+  {
+    "objectID": "2818124e-cc3e-4fe8-bc03-1ebeef122282",
+    "warehouses": {
+      "montreal": 61,
+      "chicago": 31,
+      "phoenix": 77
+    }
+  },
+  {
+    "objectID": "59ea0aa7-702e-42e7-ba20-5baf37382d5e",
+    "warehouses": {
+      "montreal": 20,
+      "chicago": 18,
+      "phoenix": 36
+    }
+  },
+  {
+    "objectID": "dbeb5b5a-bb53-4979-81b3-c7e7ded99b25",
+    "warehouses": {
+      "montreal": 20,
+      "chicago": 53,
+      "phoenix": 3
+    }
+  },
+  {
+    "objectID": "c1daa9c7-8a78-430e-961a-54974afe23b4",
+    "warehouses": {
+      "montreal": 5,
+      "chicago": 38,
+      "phoenix": 35
+    }
+  },
+  {
+    "objectID": "7d5bcefb-bc5a-4b71-a625-305c9e89a20a",
+    "warehouses": {
+      "montreal": 32,
+      "chicago": 80,
+      "phoenix": 1
+    }
+  },
+  {
+    "objectID": "3b9f0121-f1af-4985-9e1c-5eb73ff7e092",
+    "warehouses": {
+      "montreal": 82,
+      "chicago": 18,
+      "phoenix": 12
+    }
+  },
+  {
+    "objectID": "532a22c3-eccf-426e-afb4-2760fb2ebc5c",
+    "warehouses": {
+      "montreal": 98,
+      "chicago": 45,
+      "phoenix": 0
+    }
+  },
+  {
+    "objectID": "353df2dc-9690-42aa-ba22-351b03b0fcc4",
+    "warehouses": {
+      "montreal": 14,
+      "chicago": 77,
+      "phoenix": 27
+    }
+  },
+  {
+    "objectID": "07d475f4-e12d-49a0-a1b4-783b35f4844f",
+    "warehouses": {
+      "montreal": 17,
+      "chicago": 97,
+      "phoenix": 39
+    }
+  },
+  {
+    "objectID": "9d208768-4ba1-4a70-8832-8b646508e35a",
+    "warehouses": {
+      "montreal": 24,
+      "chicago": 97,
+      "phoenix": 55
+    }
+  },
+  {
+    "objectID": "de02050b-736f-438a-9e5d-0cf96c29cfc7",
+    "warehouses": {
+      "montreal": 45,
+      "chicago": 71,
+      "phoenix": 54
+    }
+  },
+  {
+    "objectID": "dfffbc51-e544-4274-b594-c29e27661902",
+    "warehouses": {
+      "montreal": 7,
+      "chicago": 48,
+      "phoenix": 28
+    }
+  },
+  {
+    "objectID": "bcd957ed-25b8-4c60-9a9d-fa53372a0ca7",
+    "warehouses": {
+      "montreal": 91,
+      "chicago": 58,
+      "phoenix": 67
+    }
+  },
+  {
+    "objectID": "6c407896-65f6-4a73-ac84-03131b46b734",
+    "warehouses": {
+      "montreal": 6,
+      "chicago": 65,
+      "phoenix": 79
+    }
+  },
+  {
+    "objectID": "5489911f-07e2-4b4d-ab2f-07268eaf7844",
+    "warehouses": {
+      "montreal": 44,
+      "chicago": 54,
+      "phoenix": 72
+    }
+  },
+  {
+    "objectID": "6a16e264-b754-41c1-88bc-4228df2ee287",
+    "warehouses": {
+      "montreal": 16,
+      "chicago": 47,
+      "phoenix": 100
+    }
+  },
+  {
+    "objectID": "df63ca65-8d4c-4128-82b0-11c275d15bad",
+    "warehouses": {
+      "montreal": 24,
+      "chicago": 62,
+      "phoenix": 3
+    }
+  },
+  {
+    "objectID": "a45747a3-8d27-4787-93aa-101f6d491bcb",
+    "warehouses": {
+      "montreal": 88,
+      "chicago": 42,
+      "phoenix": 66
+    }
+  },
+  {
+    "objectID": "ac4f5cbe-0f78-47b3-bbff-963bb92ef3ee",
+    "warehouses": {
+      "montreal": 63,
+      "chicago": 45,
+      "phoenix": 39
+    }
+  },
+  {
+    "objectID": "f926bd38-e464-4c1d-8594-32c8fd4734f5",
+    "warehouses": {
+      "montreal": 42,
+      "chicago": 85,
+      "phoenix": 25
+    }
+  },
+  {
+    "objectID": "2d1b3bca-eb6f-466c-8389-184d227f2f5a",
+    "warehouses": {
+      "montreal": 9,
+      "chicago": 94,
+      "phoenix": 27
+    }
+  },
+  {
+    "objectID": "9093c12a-49bb-4761-afc2-75c738935263",
+    "warehouses": {
+      "montreal": 46,
+      "chicago": 7,
+      "phoenix": 86
+    }
+  },
+  {
+    "objectID": "b764a8e4-d657-4f5b-bcb6-1f14348b4c82",
+    "warehouses": {
+      "montreal": 67,
+      "chicago": 80,
+      "phoenix": 88
+    }
+  },
+  {
+    "objectID": "d648762e-ec6b-4d2b-825a-640ee80c4fec",
+    "warehouses": {
+      "montreal": 72,
+      "chicago": 36,
+      "phoenix": 49
+    }
+  },
+  {
+    "objectID": "2184baa5-e2c5-4ede-be9e-c4b18fccd6d0",
+    "warehouses": {
+      "montreal": 88,
+      "chicago": 31,
+      "phoenix": 71
+    }
+  },
+  {
+    "objectID": "9ae731ef-9b8a-4391-9653-500b3d29e73c",
+    "warehouses": {
+      "montreal": 79,
+      "chicago": 98,
+      "phoenix": 88
+    }
+  },
+  {
+    "objectID": "98ef9c35-dfcc-4640-9582-c10fb55e8abe",
+    "warehouses": {
+      "montreal": 30,
+      "chicago": 88,
+      "phoenix": 70
+    }
+  },
+  {
+    "objectID": "7af87542-d00e-4863-8027-e6e0aae6bc5b",
+    "warehouses": {
+      "montreal": 45,
+      "chicago": 73,
+      "phoenix": 3
+    }
+  },
+  {
+    "objectID": "048e0871-c172-4026-9a8d-884d09f832f5",
+    "warehouses": {
+      "montreal": 24,
+      "chicago": 41,
+      "phoenix": 58
+    }
+  },
+  {
+    "objectID": "a2cc42f4-a1f4-4410-9bb7-f116a9dfe69a",
+    "warehouses": {
+      "montreal": 27,
+      "chicago": 72,
+      "phoenix": 66
+    }
+  },
+  {
+    "objectID": "7553ac40-e49f-4ebd-97d1-f832bd91000b",
+    "warehouses": {
+      "montreal": 99,
+      "chicago": 69,
+      "phoenix": 53
+    }
+  },
+  {
+    "objectID": "70406b27-1a4e-498a-93f2-40a6d8492a47",
+    "warehouses": {
+      "montreal": 85,
+      "chicago": 27,
+      "phoenix": 30
+    }
+  },
+  {
+    "objectID": "8cf4304f-6a22-4fd5-ab53-9b116d106364",
+    "warehouses": {
+      "montreal": 64,
+      "chicago": 79,
+      "phoenix": 43
+    }
+  },
+  {
+    "objectID": "206d6918-f715-44a9-a226-9d5c192abc4f",
+    "warehouses": {
+      "montreal": 66,
+      "chicago": 54,
+      "phoenix": 43
+    }
+  },
+  {
+    "objectID": "ea4f7176-2e5b-4031-a2a5-f0ad3ae25751",
+    "warehouses": {
+      "montreal": 79,
+      "chicago": 39,
+      "phoenix": 35
+    }
+  },
+  {
+    "objectID": "d97b8f4a-a28e-4319-8702-4abac488c97d",
+    "warehouses": {
+      "montreal": 65,
+      "chicago": 40,
+      "phoenix": 25
+    }
+  },
+  {
+    "objectID": "7a06c1b8-aeda-4fe6-b05f-b6806b19c437",
+    "warehouses": {
+      "montreal": 41,
+      "chicago": 83,
+      "phoenix": 78
+    }
+  },
+  {
+    "objectID": "0b0271cb-e23a-470e-a9aa-ee304e0ad7f2",
+    "warehouses": {
+      "montreal": 48,
+      "chicago": 10,
+      "phoenix": 23
+    }
+  },
+  {
+    "objectID": "214e8431-2db1-449d-b460-2a8fde0166e5",
+    "warehouses": {
+      "montreal": 41,
+      "chicago": 99,
+      "phoenix": 82
+    }
+  },
+  {
+    "objectID": "c0789430-0bf0-4996-8a4a-b0a9f3c28507",
+    "warehouses": {
+      "montreal": 100,
+      "chicago": 74,
+      "phoenix": 78
+    }
+  },
+  {
+    "objectID": "1f03677c-e4db-4005-a456-faa16a6e5d8e",
+    "warehouses": {
+      "montreal": 52,
+      "chicago": 26,
+      "phoenix": 9
+    }
+  },
+  {
+    "objectID": "ddac2648-631a-40ac-875d-cc347a980848",
+    "warehouses": {
+      "montreal": 100,
+      "chicago": 61,
+      "phoenix": 1
+    }
+  },
+  {
+    "objectID": "a8c06b97-5e2d-4101-a4e8-f2789759627e",
+    "warehouses": {
+      "montreal": 15,
+      "chicago": 3,
+      "phoenix": 84
+    }
+  },
+  {
+    "objectID": "884bc17e-1001-4082-ae50-a0c8a51db18b",
+    "warehouses": {
+      "montreal": 94,
+      "chicago": 100,
+      "phoenix": 48
+    }
+  },
+  {
+    "objectID": "ea7f49b1-3d54-41ff-9312-4a8d46f52915",
+    "warehouses": {
+      "montreal": 25,
+      "chicago": 46,
+      "phoenix": 61
+    }
+  },
+  {
+    "objectID": "1ae73b94-0102-4099-96d3-6e86a8106951",
+    "warehouses": {
+      "montreal": 32,
+      "chicago": 37,
+      "phoenix": 2
+    }
+  },
+  {
+    "objectID": "b4624603-ddb6-4b4f-9aff-dfe09724f414",
+    "warehouses": {
+      "montreal": 30,
+      "chicago": 23,
+      "phoenix": 28
+    }
+  },
+  {
+    "objectID": "0195922f-4b68-4cf4-a6d4-76c1af7ffbd8",
+    "warehouses": {
+      "montreal": 36,
+      "chicago": 14,
+      "phoenix": 65
+    }
+  },
+  {
+    "objectID": "4d15ae1f-17cc-4e93-ac9f-fab194b478cb",
+    "warehouses": {
+      "montreal": 97,
+      "chicago": 44,
+      "phoenix": 39
+    }
+  },
+  {
+    "objectID": "ca02924c-855f-438a-bce6-be7f2280f9b8",
+    "warehouses": {
+      "montreal": 26,
+      "chicago": 33,
+      "phoenix": 64
+    }
+  },
+  {
+    "objectID": "d981af94-d581-416e-8a2e-151c5a934886",
+    "warehouses": {
+      "montreal": 90,
+      "chicago": 4,
+      "phoenix": 46
+    }
+  },
+  {
+    "objectID": "0596fb75-d9ac-4e3e-b9ea-6e9c9c81e6dd",
+    "warehouses": {
+      "montreal": 88,
+      "chicago": 38,
+      "phoenix": 78
+    }
+  },
+  {
+    "objectID": "b82d17be-16f6-4ada-b04d-1a56a6f5560e",
+    "warehouses": {
+      "montreal": 41,
+      "chicago": 6,
+      "phoenix": 58
+    }
+  },
+  {
+    "objectID": "c5cc8742-17ab-40ec-b58d-4a5ef68a9302",
+    "warehouses": {
+      "montreal": 56,
+      "chicago": 31,
+      "phoenix": 74
+    }
+  },
+  {
+    "objectID": "a27a36fb-6a10-47ab-9ddc-d9c37dff8829",
+    "warehouses": {
+      "montreal": 1,
+      "chicago": 27,
+      "phoenix": 18
+    }
+  },
+  {
+    "objectID": "93fdb58e-5f8d-4c64-baff-77e03b104ef8",
+    "warehouses": {
+      "montreal": 66,
+      "chicago": 72,
+      "phoenix": 47
+    }
+  },
+  {
+    "objectID": "38281ba3-7988-4e96-b36d-ac989fc80652",
+    "warehouses": {
+      "montreal": 7,
+      "chicago": 52,
+      "phoenix": 9
+    }
+  }
+]
